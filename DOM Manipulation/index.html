@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body{
+        text-align: center;
+    }
+</style>
+<body>
+    <h1 class="my-title">My Title</h1>
+    <h2 class="counting">2025</h2>
+
+    <script>
+        var number = document.querySelector(".counting");
+        var title = document.querySelector(".my-title");
+        //console.log(number);
+
+        var count = 1;
+        setInterval(() => {
+            if(count < 500){
+                count++;
+                number.innerHTML = count;
+            }
+        }, 100)
+
+        setTimeout(() =>{
+            title.innerHTML = "My 2nd title🤖"
+                }, 200);
+    </script>
+</body>
+</html>
