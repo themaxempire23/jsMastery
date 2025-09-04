@@ -67,5 +67,4 @@ I successfully completed the course and earned a **Certificate of Completion** f
 🎓 Student | 💻 Software Developer in Training
 
 
-👉 Do you want me to include **both the image and the official link** in the README for you, or just one?
 
