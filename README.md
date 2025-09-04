@@ -33,7 +33,8 @@ The repo is organized into different folders based on topics:
 
 I successfully completed the course and earned a **Certificate of Completion** from Udemy:
 
-![Certificate](./certificate.png)
+![Certificate](![Uploading image.png…]()
+)
 
 ---
 
