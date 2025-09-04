@@ -1,6 +1,3 @@
-# jsMastery
-JavaScript Mastery From Basics to Advance 2025
-
 # JavaScript Mastery – From Basics to Advanced (2025)
 
 This repository contains my learning journey through the course **[JavaScript Mastery From Basics to Advanced 2025](https://www.udemy.com/)** by **Mehmood Khalil**.
